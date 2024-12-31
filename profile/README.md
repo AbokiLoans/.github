@@ -21,7 +21,6 @@ Our team is actively developing a new smart contract and frontend to support cor
 
 **Built by:**
 - **Anosike Mmerichukwu** ([@buildwithmc.eth](https://x.com/buildwithmc.eth)) – Project Manager
-- **Godwin Igwurube** – Smart Contract & Frontend Developer
 
 **Advisors:**
 - **Ifeanyi Christwith** ([@ichristwin.eth](https://x.com/ichristwin.eth)) – Founder, M3ering Protocol
